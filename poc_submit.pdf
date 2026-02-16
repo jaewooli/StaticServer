@@ -9,7 +9,16 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Annots [4 0 R] /Resources << >> >>
 endobj
 4 0 obj
-<< /Type /Annot /Subtype /Widget /Rect [0 0 612 792] /FT /Btn /T (SubmitBtn)  /F 4 /A 5 0 R >>
+<<
+  /Type /Annot
+  /Subtype /Widget
+  /Rect [0 0 612 792]
+  /FT /Btn
+  /Ff 65536
+  /T (SubmitBtn)
+  /F 4
+  /A 5 0 R
+>>
 endobj
 5 0 obj
 << /Type /Action
